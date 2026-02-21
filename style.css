@@ -49,18 +49,17 @@ img{
 }
 
 a.kezdolap{
-    background-color: rgb(255, 208, 208);
     text-decoration: none;
     color: rgb(66, 0, 0);
     font-size: 40px;
-    border: 2px solid black;
-    border-radius: 7px;
     margin: auto;
-
+    border-right: 2px solid #000;
+    padding: 10px 168.1px
 }
 header {
-    background: #222;
-    padding: 10px 16px;
+    background-color: rgb(255, 220, 220);
+    padding: 0px 16px;
+    border: 2px solid black;
 }
 
 nav {
