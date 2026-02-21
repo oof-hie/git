@@ -49,8 +49,9 @@ img{
 }
 
 a.kezdolap{
+    background-color: rgb(10, 10, 10);
     text-decoration: none;
-    color: rgb(66, 0, 0);
+    color: rgb(16, 248, 70);
     font-size: 40px;
     margin: auto;
     border-right: 2px solid #000;
@@ -75,4 +76,24 @@ nav a {
     text-decoration: none;
     font-weight: 500;
     text-decoration: none;
+}
+#kep1{
+      background-image: url("https://www.kitervezte.hu/images/epuletek/szepmuveszeti-muzeum-budapest/galeria2/szepmuveszeti-muzeum-budapest05.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#muzeum{
+    background-color: #222;
+    color: white;
+    font-size: xx-large;
+    border: none;
+    
+}
+#muzeum2{
+font-style: italic;
 }
